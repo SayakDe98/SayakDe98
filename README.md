@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SayakDe98
-- 👀 I’m interested in Data Structures and Algorithms , Software Developement .
+- 👀 I’m interested in Software Developement .
 - 🌱 I’m currently learning the above.
 - 💞️ I’m looking to collaborate on projects on the above topics.
 - 📫 How to reach me via Email : sayakde777@gmail.com
