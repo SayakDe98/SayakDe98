@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SayakDe98
-- 👀 I’m interested in Software Developement .
+- 👀 I’m a Software Developer .
 - 🌱 I’m currently learning the above.
-- 💞️ I’m looking to collaborate on projects on the above topic.
 - 📫 How to reach me via Email : sayakde777@gmail.com
 
 <!---
