@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SayakDe98
 - 👀 I’m a Software Developer .
-- 🌱 I’m currently learning the above.
 - 📫 How to reach me via Email : sayakde777@gmail.com
 
 <!---
